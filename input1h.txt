@@ -1,0 +1,10 @@
+Dhaka Sylhet 500
+Dhaka Madaripur 30
+Madaripur GopalGonj 45
+Madaripur Magura 60
+Magura Sylhet 10
+Dhaka Magura 30
+Magura Barishal 46
+Barishal Dhaka 100
+Shoriotpur Chadpur 120
+END
